@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm everyone. my major is artificial intelligence ^^
+
 <!--
 **SeoCong-cpu/SeoCong-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
